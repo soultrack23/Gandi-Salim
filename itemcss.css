@@ -1,0 +1,54 @@
+div.title {
+	text-align: center;
+	font-weight: bold; 
+	font-size: 15pt;
+	color:#add6e3;
+	border-style: solid;
+	border-color: #00008b;
+	background-color: #00008b;
+	padding: 20px 0;
+	
+	}
+div.category_list {
+	 padding-top: 15px;
+}
+div.category {
+	font-weight: bold;
+	color:#add6e3;
+	display: inline;
+	width: 100px;
+	height: 100px;
+	padding: 5px;
+	border: 1px #00008b;  
+	background-color: #00008b; 
+	text-align: center;
+	padding: 7px;
+}
+div.itemlist {
+	height: 500pt;
+	width:500pt;
+	background-color: #add6e3; 
+	
+}
+div.item_list_left {
+	margin: 25px;
+	width: 250pt;
+	height: 270pt;
+	float:left;
+	border-style: solid;
+	border-color: gray;
+	text-align: center;
+	overflow: auto;
+	background-color:#add6e3;
+}
+div.item_list_right {
+	float:left;
+	margin:25px;
+	width: 450pt;
+	height:270pt;
+	border-style: solid;
+	border-color: gray;	
+	text-align: center;
+	overflow: auto;
+	background-color:#add6e3;
+}
